@@ -30,7 +30,7 @@ DAMAGE.
 #include <string.h>
 
 const char * const g_size_units[] =
-	{"", "k", "M", "G", "T", "P", "E", "Y", NULL};
+	{"", "k", "M", "G", "T", "P", "E", "Z", "Y", NULL};
 
 typedef const char * const *pargv_t;
 
